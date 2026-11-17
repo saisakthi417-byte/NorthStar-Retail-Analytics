@@ -1,0 +1,19 @@
+MODULE 5: NUMPY AND PANDAS BUSINESS INTERPRETATION
+
+Dataset contains 60,437 rows and 34 columns.
+
+Duplicate rows detected: 0.
+
+Missing cells detected: 337,459.
+
+Missing values were not imputed. Investigate each field and document a business reason before any imputation.
+
+LineAmount has 60,257 valid values; total=1,274,692,616.12; average=21,154.27. Confirm the field definition before interpreting it as net sales, revenue, or profit.
+
+The strongest absolute Pearson correlation is between UnitCost and MRP (r=0.987), indicating a strong positive linear association. Correlation does not prove causation.
+
+IQR analysis flagged 10,399 column-level outlier observations. These are candidates for investigation, not automatically errors; they were not removed.
+
+The multi-level groupby report summarises transaction rows, LineAmount and Quantity by the available Channel, Category and Region dimensions.
+
+Pivot tables summarise LineAmount across available business dimensions. Confirm field definitions and missing-data patterns before making business decisions.

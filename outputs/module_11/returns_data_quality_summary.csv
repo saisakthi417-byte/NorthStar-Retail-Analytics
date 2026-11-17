@@ -1,0 +1,9 @@
+Metric,Value
+Transaction rows,60437
+Original return rows,3415
+Usable return rows,3415
+Duplicate transaction rows,0
+Duplicate return rows,15
+Missing product IDs in transactions,0
+Return rows with missing quantity,3415
+Return rows with missing refund amount,10

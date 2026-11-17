@@ -1,0 +1,9 @@
+Category,Products,Units_Sold,Returned_Units,Return_Records,Sales_Revenue,Refund_Amount,Return_Rate_Percent
+Accessories,56,8888,0.0,0.0,48755382.68,0.0,0.0
+Apparel,107,16645,0.0,0.0,74382479.6,0.0,0.0
+Beauty,59,9400,0.0,0.0,34990788.43,0.0,0.0
+Electronics,67,11011,0.0,0.0,881335787.25,0.0,0.0
+Footwear,66,10433,0.0,0.0,80202562.61,0.0,0.0
+Grocery,95,14870,0.0,0.0,19715442.21,0.0,0.0
+Home,70,11110,0.0,0.0,134284962.61,0.0,0.0
+,45,57,0.0,0.0,1025210.73,0.0,0.0

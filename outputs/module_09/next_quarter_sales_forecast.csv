@@ -1,0 +1,4 @@
+Forecast_Month,Forecast_Sales,Trend_Component,Seasonal_Component,Approx_95pct_Lower_Bound,Approx_95pct_Upper_Bound,Uncertainty_Method
+2025-01-01,25046244.77766956,22663243.03865942,2383001.739010141,22721650.031199202,27370839.52413992,"Forecast plus/minus 1.96 times in-sample residual standard deviation; approximate prediction range, not a formal confidence interval"
+2025-02-01,23361523.68266956,22801263.194085505,560260.4885840573,21036928.936199203,25686118.42913992,"Forecast plus/minus 1.96 times in-sample residual standard deviation; approximate prediction range, not a formal confidence interval"
+2025-03-01,23085209.052669562,22939283.349511594,145925.7031579696,20760614.306199204,25409803.79913992,"Forecast plus/minus 1.96 times in-sample residual standard deviation; approximate prediction range, not a formal confidence interval"

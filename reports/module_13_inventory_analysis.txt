@@ -1,0 +1,51 @@
+======================================================================
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 13: INVENTORY ANALYSIS
+======================================================================
+
+DATASET SUMMARY
+----------------------------------------------------------------------
+Inventory snapshot rows: 25,920
+Rows with known stock quantity: 25,800
+Missing stock quantities: 120
+Negative stock quantities: 0
+Negative reorder levels: 0
+Invalid stockout flags: 0
+Unique products: 520
+Unique stores: 18
+
+STOCKOUT SUMMARY
+----------------------------------------------------------------------
+Rows flagged as stockout: 0
+Stockout snapshot rate: 0.00%
+
+REORDER ATTENTION
+----------------------------------------------------------------------
+Inventory rows requiring reorder/urgent review: 31
+
+SLOW-MOVING PRODUCT REVIEW
+----------------------------------------------------------------------
+Products with no recorded sales: 0
+Transaction analysis start: 2023-01-01 00:00:00
+Transaction analysis end: 2024-12-31 00:00:00
+
+INTERPRETATION AND LIMITATIONS
+----------------------------------------------------------------------
+Stockout frequency is based on the supplied StockoutFlag.
+Missing OnHandUnits values remain unknown; they are not
+automatically replaced with zero.
+Slow-mover screening uses transaction quantities as a
+movement proxy. No recorded sales does not necessarily
+prove a product is discontinued or obsolete.
+Inventory snapshots do not provide supplier lead times,
+safety stock, or forecast demand. Reorder suggestions are
+therefore based on OnHandUnits versus ReorderLevel only.
+
+OUTPUT FILES
+----------------------------------------------------------------------
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_13\module_13_stockout_by_product.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_13\module_13_stockout_by_store.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_13\module_13_reorder_attention.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_13\module_13_slow_movers.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_13\module_13_inventory_cleaned.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\reports\module_13_inventory_analysis.txt

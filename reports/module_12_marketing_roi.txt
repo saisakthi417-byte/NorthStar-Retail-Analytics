@@ -1,0 +1,45 @@
+=================================================================
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 12: MARKETING ROI ANALYSIS
+=================================================================
+
+Campaigns analysed: 40
+Transactions available: 60,212
+Total marketing spend (INR): 37,629,532.87
+Total clicks: 1,708,290
+Total impressions: 71,421,478
+Overall CTR: 2.39%
+
+CHANNEL RESULTS
+-----------------------------------------------------------------
+marketing_channel  campaign_count  marketing_spend_inr  total_clicks  total_impressions  ctr_percent  estimated_revenue_inr  roi_proxy_percent  acquisition_count  cpa_inr                                       roi_interpretation                           cpa_interpretation
+          Display               9           9247195.74        347227           13767320     2.522110           204655249.26        2113.160130                NaN      NaN Exploratory estimate; not confirmed campaign attribution Unavailable: acquisition counts not supplied
+            Email              10           8411611.44        407695           22927489     1.778193           371822544.48        4320.348552                NaN      NaN Exploratory estimate; not confirmed campaign attribution Unavailable: acquisition counts not supplied
+              SMS              10          10248090.35        363599           17379735     2.092086           267516672.38        2510.405092                NaN      NaN Exploratory estimate; not confirmed campaign attribution Unavailable: acquisition counts not supplied
+           Search               5           3257354.72        214004            8006137     2.672999            84081657.27        2481.286489                NaN      NaN Exploratory estimate; not confirmed campaign attribution Unavailable: acquisition counts not supplied
+           Social               6           6465280.62        375765            9340797     4.022837           124247176.20        1821.759990                NaN      NaN Exploratory estimate; not confirmed campaign attribution Unavailable: acquisition counts not supplied
+
+FORMULAS
+-----------------------------------------------------------------
+CTR (%) = Clicks / Impressions * 100
+ROI (%) = (Revenue - Marketing Spend) / Marketing Spend * 100
+CPA = Marketing Spend / Acquisition Count
+
+DATA LIMITATIONS
+-----------------------------------------------------------------
+Marketing channels differ from transaction sales channels.
+Transactions do not contain a campaign ID.
+Revenue is estimated using campaign dates and target categories.
+Campaign date windows may overlap and double-count transactions.
+ROI is an exploratory estimate, not verified campaign ROI.
+CPA is unavailable because acquisition counts were not supplied.
+Revenue minus spend is not net profit.
+
+OUTPUT FILES
+-----------------------------------------------------------------
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_12\module_12_campaign_roi.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_12\module_12_channel_roi.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_12\module_12_matched_transactions.csv
+C:\Users\admin\Desktop\NorthStar_Retail_Analytics\reports\module_12_marketing_roi.txt
+
+Module 12 processing completed.

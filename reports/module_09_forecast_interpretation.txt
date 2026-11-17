@@ -1,0 +1,37 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 9: TIME SERIES ANALYSIS AND FORECASTING
+
+Input dataset: C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\integrated\integrated_transactions.csv
+Date column used: OrderDate
+Sales measure used: LineAmount
+Valid transaction rows: 23,721
+Monthly observations in calendar range: 24
+Usable monthly observations: 24
+Calendar months without usable sales: 0
+
+METHOD
+Monthly LineAmount totals were calculated from valid dates and numeric sales values. An additive model was used: fitted linear trend plus average month-of-year seasonal effect plus residual.
+
+TREND
+Estimated linear trend slope: 138,020.16 sales units per month.
+Observed first-to-last monthly change: -3.83%.
+The fitted trend is upward.
+
+SEASONALITY
+Seasonal components represent average deviations for each calendar month after removing the fitted linear trend. They are descriptive estimates and may be unreliable if historical data covers only one annual cycle.
+
+FORECAST
+The next three calendar months were forecast using the fitted linear trend plus the estimated seasonal effect for each month.
+
+APPROXIMATE UNCERTAINTY
+Residual standard deviation: 1,186,017.73.
+The reported lower and upper bounds equal the forecast plus/minus 1.96 times the in-sample residual standard deviation. This is a simplified uncertainty range, not a formal statistical confidence interval and not a guarantee of future outcomes.
+
+IN-SAMPLE FIT
+Mean absolute error (MAE): 886,316.52.
+Root mean squared error (RMSE): 1,161,046.14.
+Mean absolute percentage error (MAPE): 4.31%.
+
+LIMITATIONS AND BUSINESS ACTION
+This baseline model does not explicitly account for promotions, price changes, holidays, stockouts, store openings, returns, or other external drivers. Review the historical data, missing months, residuals and business events before using the forecast for staffing, inventory or financial commitments. Confirm that LineAmount is the correct sales measure for the intended business decision.
+Missing monthly observations were not imputed. Investigate them before relying on the forecast.

@@ -1,0 +1,46 @@
+TransactionID,OrderDate,CustomerID,StoreID,ProductID,Quantity,Discount,LineAmount,Channel,PaymentMode,CustomerName,Gender,AgeBand,City,LoyaltyTier,JoinDate,EmailOptIn,_customer_match,ProductName,Category,SubCategory,Brand,UnitCost,MRP,LaunchDate,_product_match,StoreName,City_store,State,Format,OpenDate,SqFt,Region,_store_match,CustomerMatchStatus,ProductMatchStatus,StoreMatchStatus
+TX900000,2023-07-14,CU11185,ST105,P9000,1,0.0,1918.23,Store,Card,Nikita Patel,F,18-25,Pune,Silver,2021-12-27,No,both,,,,,,,,left_only,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,2020-10-08,4500.0,South,both,MATCHED,UNMATCHED,MATCHED
+TX900001,2024-09-30,CU10530,ST102,P9001,1,0.15,127198.43,Store,Cash,Lakshmi Verma,F,18-25,Kolkata,Bronze,2024-10-15,No,both,,,,,,,,left_only,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,2021-12-30,8000.0,South,both,MATCHED,UNMATCHED,MATCHED
+TX900002,2023-10-16,CU11648,ONLINE,P9002,2,0.0,6069.38,Online,Card,Lakshmi Reddy,M,18-25,Delhi,Platinum,2023-07-01,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900003,2024-10-10,,ONLINE,P9003,1,0.2,7217.95,App,UPI,,,,,,,,left_only,,,,,,,,left_only,,,,,,,,left_only,UNMATCHED,UNMATCHED,ONLINE
+TX900004,2023-01-08,CU12434,ST113,P9004,1,0.05,4292.76,Store,Card,Divya Nair,M,18-25,Delhi,Silver,2023-08-02,No,both,,,,,,,,left_only,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,2022-08-28,,South,both,MATCHED,UNMATCHED,MATCHED
+TX900005,2023-10-04,CU10805,ONLINE,P9005,1,0.15,5558.32,App,Card,Arun Khan,F,18-25,Chennai,Bronze,2022-07-27,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900006,2023-11-05,CU11594,ONLINE,P9006,1,0.0,10160.11,App,Wallet,Nikita Menon,M,36-45,Delhi,,2023-07-27,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900007,2024-09-30,CU11981,ST116,P9007,1,0.3,76466.91,Store,Cash,Lakshmi Iyer,M,26-35,Mumbai,Bronze,2022-03-02,Yes,both,,,,,,,,left_only,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,2022-06-14,1200.0,West,both,MATCHED,UNMATCHED,MATCHED
+TX900008,2024-04-30,CU10350,ONLINE,P9008,1,0.0,1593.77,App,UPI,Deepak Khan,F,18-25,Hyderabad,Bronze,2021-04-22,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900009,2023-01-05,CU10104,ONLINE,P9009,1,0.1,5221.87,Online,Card,Lakshmi Pillai,F,26-35,Pune,Gold,2022-06-13,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900010,2024-05-09,,ONLINE,P9010,1,0.2,2572.62,Online,Net Banking,,,,,,,,left_only,,,,,,,,left_only,,,,,,,,left_only,UNMATCHED,UNMATCHED,ONLINE
+TX900011,2023-07-14,,ST106,P9011,1,0.0,3026.92,Store,Card,,,,,,,,left_only,,,,,,,,left_only,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,2020-12-07,8000.0,South,both,UNMATCHED,UNMATCHED,MATCHED
+TX900012,2023-03-13,CU12153,ONLINE,P9012,3,0.15,21363.62,Online,Card,Arjun Verma,M,18-25,Bengaluru,Bronze,2023-03-07,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900013,2024-10-27,CU12103,ONLINE,P9013,1,0.15,7669.07,Online,UPI,Pooja Patel,M,26-35,Pune,Silver,2021-07-28,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900014,2023-11-20,CU10684,ST105,P9014,2,0.15,8444.39,Store,Card,Lakshmi Pillai,F,18-25,Mumbai,Bronze,2021-08-22,Yes,both,,,,,,,,left_only,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,2020-10-08,4500.0,South,both,MATCHED,UNMATCHED,MATCHED
+TX900015,2023-10-08,CU11315,ONLINE,P9015,2,0.2,241.06,App,Cash,Vivaan Khan,F,46-60,Mumbai,Bronze,2024-07-03,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900016,2024-03-23,CU11192,ONLINE,P9016,2,0.0,492.66,Online,Card,Meera Reddy,F,26-35,Mysuru,Silver,2021-01-18,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900017,2024-10-13,CU10731,ST101,P9017,1,0.0,1557.84,Store,UPI,Vihaan Verma,F,18-25,Pune,Bronze,2022-08-12,Yes,both,,,,,,,,left_only,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,2020-03-05,8000.0,east,both,MATCHED,UNMATCHED,MATCHED
+TX900018,2024-11-02,CU11524,ST104,P9018,1,0.0,38979.01,Store,UPI,Aditya Verma,M,36-45,Mumbai,Silver,2024-11-16,Yes,both,,,,,,,,left_only,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,2019-09-16,2500.0,East,both,MATCHED,UNMATCHED,MATCHED
+TX900019,2023-01-07,,ONLINE,P9019,2,0.05,692.19,Online,Net Banking,,,,,,,,left_only,,,,,,,,left_only,,,,,,,,left_only,UNMATCHED,UNMATCHED,ONLINE
+TX900020,2024-01-08,CU12710,ONLINE,P9020,1,0.0,3422.78,Online,Net Banking,Deepak Sharma,F,36-45,Mumbai,Gold,2022-10-05,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900021,2023-12-14,CU10075,ST115,P9021,1,0.1,99217.28,Store,UPI,Sanjay Menon,F,18-25,Kolkata,Bronze,2021-01-02,Yes,both,,,,,,,,left_only,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,2021-08-24,,South,both,MATCHED,UNMATCHED,MATCHED
+TX900022,2023-10-06,CU11803,ONLINE,P9022,1,0.15,2690.81,Online,Card,Deepak Sharma,F,36-45,Kolkata,Bronze,2021-02-09,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900023,2024-11-30,CU12985,ONLINE,P9023,1,0.0,5229.26,App,Wallet,Kavya Rao,M,46-60,Pune,,2022-03-28,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900024,2023-03-22,,ST115,P9024,1,0.0,3771.7,Store,Card,,,,,,,,left_only,,,,,,,,left_only,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,2021-08-24,,South,both,UNMATCHED,UNMATCHED,MATCHED
+TX900025,2023-01-21,CU12492,ONLINE,P9025,1,0.0,6632.75,Online,Card,Myra Sharma,F,36-45,Mysuru,Gold,2021-01-17,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900026,2023-09-22,,ST114,P9026,1,0.0,2810.57,Store,Cash,,,,,,,,left_only,,,,,,,,left_only,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,2020-06-29,4500.0,North,both,UNMATCHED,UNMATCHED,MATCHED
+TX900027,2023-06-16,,ST102,P9027,1,0.0,151189.53,Store,Net Banking,,,,,,,,left_only,,,,,,,,left_only,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,2021-12-30,8000.0,South,both,UNMATCHED,UNMATCHED,MATCHED
+TX900028,2024-07-08,,ONLINE,P9028,1,0.15,8714.45,Online,UPI,,,,,,,,left_only,,,,,,,,left_only,,,,,,,,left_only,UNMATCHED,UNMATCHED,ONLINE
+TX900029,2023-02-07,,ST102,P9029,2,0.2,10763.46,Store,UPI,,,,,,,,left_only,,,,,,,,left_only,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,2021-12-30,8000.0,South,both,UNMATCHED,UNMATCHED,MATCHED
+TX900030,2024-10-13,CU10813,ONLINE,P9030,1,0.15,2322.58,App,UPI,Rahul Singh,M,26-35,Chennai,Bronze,2023-03-03,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900031,2024-07-26,,ONLINE,P9031,1,0.05,678.04,Online,Card,,,,,,,,left_only,,,,,,,,left_only,,,,,,,,left_only,UNMATCHED,UNMATCHED,ONLINE
+TX900032,2023-12-17,CU10186,ONLINE,P9032,1,0.05,7061.78,App,Card,Aarav Reddy,F,26-35,Hyderabad,Platinum,2024-06-22,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900033,2023-09-29,CU12755,ST106,P9033,1,0.3,54084.69,Store,Cash,Meera Patel,F,60+,Kochi,Silver,2023-01-30,Yes,both,,,,,,,,left_only,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,2020-12-07,8000.0,South,both,MATCHED,UNMATCHED,MATCHED
+TX900034,2023-09-07,CU11694,ST115,P9034,1,0.05,3583.11,Store,Wallet,Ananya Rao,F,36-45,Delhi,Bronze,2022-08-13,Yes,both,,,,,,,,left_only,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,2021-08-24,,South,both,MATCHED,UNMATCHED,MATCHED
+TX900035,2024-11-03,CU12379,ONLINE,P9035,2,0.0,15329.36,App,Net Banking,Ganesh Singh,M,26-35,Pune,Bronze,2021-04-12,No,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900036,2023-07-21,CU11116,ONLINE,P9036,3,0.0,239883.72,App,UPI,Deepak Das,F,26-35,Chennai,Bronze,2022-06-01,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900037,2024-04-20,CU10733,ST112,P9037,1,0.15,7899.19,Store,UPI,Sneha Rao,F,46-60,Kolkata,,2024-11-08,No,both,,,,,,,,left_only,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,2022-03-31,8000.0,South,both,MATCHED,UNMATCHED,MATCHED
+TX900038,2024-09-03,CU12598,ST105,P9038,1,0.0,12500.45,Store,Card,Ganesh Das,F,18-25,Coimbatore,Platinum,2022-05-22,No,both,,,,,,,,left_only,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,2020-10-08,4500.0,South,both,MATCHED,UNMATCHED,MATCHED
+TX900039,2024-03-23,CU10546,ONLINE,P9039,1,0.0,4467.38,Online,Cash,Zoya Nair,M,18-25,Mumbai,Silver,2022-11-26,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900040,2024-01-26,,ST101,P9040,1,0.0,663.06,Store,UPI,,,,,,,,left_only,,,,,,,,left_only,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,2020-03-05,8000.0,east,both,UNMATCHED,UNMATCHED,MATCHED
+TX900041,2024-06-03,CU10169,ST105,P9041,1,0.0,4273.6,Store,UPI,Kiara Verma,M,26-35,Kochi,Silver,2023-02-16,Yes,both,,,,,,,,left_only,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,2020-10-08,4500.0,South,both,MATCHED,UNMATCHED,MATCHED
+TX900042,2024-03-21,,ONLINE,P9042,2,0.15,13287.44,App,UPI,,,,,,,,left_only,,,,,,,,left_only,,,,,,,,left_only,UNMATCHED,UNMATCHED,ONLINE
+TX900043,2024-05-11,CU12933,ONLINE,P9043,1,0.05,27314.41,App,Card,Zoya Pillai,F,26-35,Kolkata,Silver,2023-04-05,Yes,both,,,,,,,,left_only,,,,,,,,left_only,MATCHED,UNMATCHED,ONLINE
+TX900044,2024-01-17,CU10166,ST113,P9044,1,0.05,6682.22,Store,UPI,Lakshmi Rao,M,26-35,Coimbatore,Silver,2021-10-26,Yes,both,,,,,,,,left_only,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,2022-08-28,,South,both,MATCHED,UNMATCHED,MATCHED

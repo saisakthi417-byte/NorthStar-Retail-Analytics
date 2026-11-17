@@ -1,0 +1,2 @@
+Project,Module,Input_Rows,Input_Columns,Numeric_Columns_Analysed,Duplicate_Rows,Missing_Cells,NumPy_Analysis_Created,Groupby_Created,Sales_Pivot_Created,IQR_Report_Created,Correlation_Matrix_Created,Calculated_Columns_Created,Missing_Expected_Outputs,Status
+NorthStar Retail Analytics Platform,Module 5 - NumPy and Pandas,60437,34,6,0,337459,True,True,True,True,True,True,0,OUTPUT VERIFICATION PASSED

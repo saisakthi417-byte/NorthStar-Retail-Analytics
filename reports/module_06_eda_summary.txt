@@ -1,0 +1,79 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 6 - EXPLORATORY DATA ANALYSIS
+
+Integrated transaction rows: 60,437
+Rows with valid LineAmount: 60,257
+Rows with valid OrderDate and LineAmount: 60,257
+Missing/invalid dates: 0
+Missing/invalid LineAmount: 180
+Total LineAmount: 1,274,692,616.12
+
+SALES BY CHANNEL
+Channel  Transaction_Rows  Total_Sales  Average_Line_Amount
+  Store             32434 680385584.54         20977.541609
+ Online             16382 342686507.99         20918.478085
+    App             11441 251620523.59         21992.878559
+
+SALES BY CATEGORY
+   Category  Transaction_Rows  Total_Sales  Average_Line_Amount
+Electronics              8051 881335787.25        109469.107844
+       Home              8089 134284962.61         16600.934925
+   Footwear              7673  80202562.61         10452.569088
+    Apparel             12242  74382479.60          6076.007156
+Accessories              6496  48755382.68          7505.446841
+     Beauty              6871  34990788.43          5092.532154
+    Grocery             10790  19715442.21          1827.195756
+
+TOP 10 PHYSICAL STORES (ONLINE EXCLUDED)
+StoreID  Transaction_Rows  Total_Sales  Average_Line_Amount
+  ST110              1815  40205783.00         22151.946556
+  ST112              1755  39640673.66         22587.278439
+  ST109              1802  39445944.47         21890.091271
+  ST116              1836  39101761.89         21297.255931
+  ST115              1893  38909752.49         20554.544369
+  ST105              1815  38556283.75         21243.131543
+  ST117              1796  38417243.10         21390.447160
+  ST101              1769  37801825.76         21369.036608
+  ST106              1816  37727489.20         20775.049119
+  ST103              1862  37663068.18         20227.211697
+
+SALES BY REGION
+Region  Transaction_Rows  Total_Sales  Average_Line_Amount
+ South             16120 339670444.17         21071.367504
+  West              5434 116964949.46         21524.650250
+  East              5420 112188090.05         20698.909603
+ North              5460 111562100.86         20432.619205
+
+MONTHLY SALES TREND
+  Month  Transaction_Rows  Total_Sales  Average_Line_Amount
+2023-01              1929  36601918.04         18974.555749
+2023-02              1818  38451815.30         21150.613476
+2023-03              2009  42677833.24         21243.321672
+2023-04              1950  38076845.80         19526.587590
+2023-05              1967  43285593.40         22005.893950
+2023-06              1629  36086627.22         22152.625672
+2023-07              1765  40262578.84         22811.659399
+2023-08              2026  44458912.23         21944.181752
+2023-09              2059  39753983.52         19307.422788
+2023-10              4132  84991361.92         20569.061452
+2023-11              3947  77198881.91         19558.875579
+2023-12              3096  70670144.99         22826.274222
+2024-01              2308  50022266.99         21673.425906
+2024-02              2006  38455669.90         19170.323978
+2024-03              2319  52829670.53         22781.229207
+2024-04              2210  48463132.23         21929.019109
+2024-05              2173  46507641.79         21402.504275
+2024-06              1957  42612985.60         21774.647726
+2024-07              1839  38310314.59         20832.144965
+2024-08              2374  51322478.14         21618.567035
+2024-09              2352  55627963.32         23651.344949
+2024-10              4594  94586368.19         20589.109314
+2024-11              4514  92270354.08         20440.929127
+2024-12              3284  71167274.35         21670.911800
+
+INTERPRETATION NOTES
+LineAmount is analyzed as supplied; confirm its business definition.
+ONLINE transactions are excluded from the physical-store ranking.
+Missing region values are not automatically assigned to a region.
+Unmatched product attributes must not be invented.
+High sales totals alone do not establish profitability or causation.

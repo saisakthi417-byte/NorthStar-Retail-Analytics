@@ -1,0 +1,9 @@
+File,Status,Rows,Columns,Missing_Values,Duplicate_Rows,Message
+transactions.csv,PASS,60577,10,17144,122,Loaded and validated successfully
+customers.csv,PASS,3022,8,63,22,Loaded and validated successfully
+products.csv,PASS,528,8,19,8,Loaded and validated successfully
+stores.csv,PASS,18,8,2,0,Loaded and validated successfully
+returns.csv,PASS,3415,6,10,15,Loaded and validated successfully
+inventory.csv,PASS,25920,6,120,0,Loaded and validated successfully
+campaigns.json,PASS,40,9,0,0,Loaded and validated successfully
+store_targets_legacy.csv,PASS,432,4,0,0,Loaded and validated successfully

@@ -1,0 +1,433 @@
+StoreID,period,sales_target_inr,footfall_target,StoreName,City,State,Region,StoreMatchStatus
+ST101,2023-01,3207149.0,17182,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-02,5100779.0,11524,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-03,2789559.0,19701,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-04,5513557.0,14198,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-05,3209739.0,22188,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-06,818682.0,21160,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-07,1924012.0,8566,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-08,5421709.0,11174,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-09,5528652.0,6681,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-10,5346878.0,14315,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-11,3997947.0,13141,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2023-12,3363343.0,23128,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-01,4069995.0,17538,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-02,6298646.0,7463,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-03,3110915.0,8836,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-04,1696568.0,16177,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-05,979913.0,21845,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-06,4054898.0,2717,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-07,5206011.0,17570,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-08,1082523.0,7501,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-09,6202213.0,15802,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-10,2622947.0,22398,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-11,5137278.0,8282,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST101,2024-12,3982098.0,23070,NorthStar Chennai Flagship,Chennai,Tamil Nadu,east,MATCHED
+ST102,2023-01,6203499.0,23481,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-02,3595042.0,22355,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-03,4796619.0,13970,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-04,3839607.0,14490,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-05,3089448.0,3408,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-06,4184018.0,3280,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-07,3548669.0,4537,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-08,6482893.0,5916,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-09,2196835.0,14682,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-10,1258664.0,18793,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-11,6385960.0,24429,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2023-12,5475300.0,18896,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-01,3098200.0,10925,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-02,6129771.0,10807,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-03,4136184.0,3510,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-04,3079624.0,20316,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-05,2764359.0,13904,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-06,1942833.0,3744,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-07,1328992.0,9360,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-08,3841983.0,24172,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-09,1191102.0,18080,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-10,5619356.0,24621,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-11,2220090.0,20946,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST102,2024-12,1954838.0,12450,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,South,MATCHED
+ST103,2023-01,6142408.0,20794,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-02,1787615.0,7196,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-03,2712198.0,24723,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-04,1422801.0,6652,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-05,3031311.0,10144,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-06,4389200.0,23944,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-07,1837032.0,21492,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-08,3799616.0,21004,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-09,5007148.0,5834,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-10,5822644.0,11000,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-11,2171188.0,18811,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2023-12,3612618.0,15355,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-01,5125247.0,11162,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-02,4231096.0,17061,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-03,3593340.0,15623,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-04,2344426.0,13409,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-05,6249786.0,3662,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-06,883594.0,15006,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-07,2725520.0,16953,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-08,2189349.0,16127,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-09,6360500.0,6826,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-10,4709429.0,21650,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-11,4751144.0,23192,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST103,2024-12,4991026.0,5830,NorthStar Bengaluru Express,Bengaluru,Karnataka,North,MATCHED
+ST104,2023-01,6004631.0,13206,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-02,3415933.0,17075,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-03,6299575.0,5085,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-04,2054154.0,7400,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-05,3526654.0,20780,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-06,2369710.0,20322,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-07,2461772.0,19796,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-08,4946555.0,24478,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-09,3320361.0,10267,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-10,6142909.0,9306,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-11,5896002.0,10828,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2023-12,1607248.0,5167,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-01,5761171.0,9843,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-02,3508735.0,23642,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-03,939934.0,19316,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-04,3061319.0,6182,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-05,1377542.0,12694,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-06,1214005.0,18269,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-07,2009843.0,22385,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-08,4254827.0,9758,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-09,1463639.0,23786,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-10,4607624.0,15693,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-11,3585101.0,16797,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST104,2024-12,2248056.0,8535,NorthStar Mysuru Standard,Mysuru,Karnataka,East,MATCHED
+ST105,2023-01,5943999.0,24746,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-02,1515261.0,20893,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-03,2170534.0,2310,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-04,4780867.0,21378,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-05,3101122.0,3922,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-06,4762897.0,5348,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-07,6202272.0,19846,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-08,1460315.0,8413,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-09,6276937.0,24587,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-10,5099839.0,20196,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-11,6187309.0,8566,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2023-12,4561206.0,3251,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-01,3538752.0,22184,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-02,4245247.0,13427,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-03,1972420.0,8994,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-04,3415732.0,11349,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-05,4304873.0,20446,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-06,5505342.0,4068,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-07,3941288.0,7802,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-08,823052.0,6742,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-09,2526826.0,6574,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-10,2790843.0,17975,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-11,1597690.0,9337,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST105,2024-12,2609803.0,16160,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST106,2023-01,5203790.0,20889,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-02,3999067.0,4010,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-03,2744386.0,2945,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-04,6137354.0,6055,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-05,5073777.0,21091,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-06,5809361.0,7402,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-07,5560394.0,14148,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-08,1012030.0,20531,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-09,939239.0,21429,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-10,1039418.0,7480,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-11,5539503.0,9182,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2023-12,3290332.0,10161,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-01,2601908.0,5866,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-02,2579206.0,8864,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-03,4228713.0,15419,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-04,965709.0,7238,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-05,3563815.0,5324,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-06,4497280.0,16442,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-07,4393992.0,10719,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-08,1966525.0,12193,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-09,3561736.0,9128,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-10,5644613.0,10189,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-11,3014434.0,15518,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST106,2024-12,5231753.0,11670,NorthStar Mumbai Standard,Mumbai,Maharashtra,South,MATCHED
+ST107,2023-01,2556810.0,6720,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-02,5793227.0,24910,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-03,875206.0,4826,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-04,1409036.0,23764,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-05,6085318.0,11548,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-06,4493366.0,15350,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-07,4476393.0,8311,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-08,1177256.0,20306,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-09,5461403.0,16791,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-10,5117953.0,24598,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-11,4672195.0,13792,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2023-12,5416161.0,10967,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-01,1132207.0,2920,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-02,3347953.0,22963,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-03,3294080.0,3855,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-04,5032093.0,5555,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-05,3059797.0,23632,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-06,1722076.0,20233,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-07,2665479.0,18978,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-08,2734233.0,18354,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-09,4161695.0,5426,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-10,1005257.0,14039,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-11,4772512.0,11068,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST107,2024-12,2750380.0,14542,NorthStar Pune Flagship,Pune,Maharashtra,East,MATCHED
+ST108,2023-01,4551900.0,18718,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-02,2423934.0,13917,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-03,3777333.0,8040,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-04,1542460.0,9116,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-05,1700192.0,14213,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-06,1757831.0,18780,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-07,5320521.0,11053,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-08,1122273.0,16834,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-09,5981174.0,15129,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-10,3778736.0,17252,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-11,5900678.0,18165,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2023-12,5284871.0,4278,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-01,5405048.0,3680,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-02,3925553.0,18890,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-03,5259534.0,23753,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-04,1395224.0,21496,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-05,6387476.0,24751,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-06,5388615.0,2484,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-07,5772186.0,22873,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-08,1514784.0,13634,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-09,4896216.0,4878,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-10,5308594.0,2760,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-11,3229514.0,10404,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST108,2024-12,3317322.0,16551,NorthStar Delhi Express,Delhi,Delhi,South,MATCHED
+ST109,2023-01,4148742.0,2814,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-02,6340184.0,5216,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-03,6017142.0,16749,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-04,1056141.0,15162,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-05,1182909.0,9634,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-06,3666736.0,14673,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-07,6480165.0,22303,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-08,5965771.0,15876,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-09,3093572.0,20625,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-10,2562655.0,17151,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-11,2491742.0,22336,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2023-12,5917497.0,4435,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-01,5238861.0,12730,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-02,4904207.0,23180,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-03,5411599.0,11705,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-04,3943053.0,2385,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-05,3415668.0,16750,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-06,3547034.0,17505,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-07,4219280.0,24304,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-08,1022987.0,24996,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-09,2161241.0,18981,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-10,3186204.0,14337,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-11,3307716.0,12900,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST109,2024-12,5009738.0,8955,NorthStar Kolkata Standard,Kolkata,West Bengal,west,MATCHED
+ST110,2023-01,3348875.0,11963,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-02,1691102.0,8479,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-03,4659903.0,14045,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-04,1534966.0,12339,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-05,6251791.0,21385,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-06,1257827.0,24685,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-07,3040476.0,24616,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-08,4184829.0,5057,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-09,1893120.0,16809,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-10,6425324.0,9119,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-11,5436022.0,11904,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2023-12,5660112.0,3110,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-01,3464767.0,10393,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-02,3277518.0,24432,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-03,2372268.0,4648,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-04,1475872.0,3118,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-05,6182595.0,8057,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-06,4713075.0,2478,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-07,5342203.0,19913,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-08,2597539.0,8564,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-09,6357707.0,20143,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-10,3404511.0,16834,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-11,3666175.0,6446,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST110,2024-12,4348175.0,24896,NorthStar Kochi Express,Kochi,Kerala,South,MATCHED
+ST111,2023-01,4669034.0,9068,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-02,5630504.0,21066,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-03,5956065.0,4001,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-04,3216432.0,21566,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-05,1119881.0,22564,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-06,2377244.0,7937,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-07,3142709.0,8450,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-08,4387539.0,5421,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-09,4054134.0,12293,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-10,6030287.0,24343,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-11,2409050.0,6760,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2023-12,800101.0,5285,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-01,1886621.0,15898,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-02,877328.0,2021,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-03,2704173.0,20682,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-04,3258494.0,22185,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-05,6156359.0,19661,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-06,2312874.0,5111,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-07,2610159.0,6923,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-08,2209711.0,13250,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-09,4964865.0,11593,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-10,1835892.0,12420,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-11,3228889.0,3948,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST111,2024-12,4303020.0,3548,NorthStar Chennai Standard,Chennai,Tamil Nadu,South,MATCHED
+ST112,2023-01,1975854.0,3634,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-02,1740222.0,5534,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-03,1878175.0,9095,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-04,2877693.0,6559,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-05,5087063.0,7459,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-06,4652094.0,3476,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-07,921790.0,21923,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-08,4611387.0,24004,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-09,4997763.0,21991,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-10,3666517.0,17097,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-11,1023303.0,13593,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2023-12,3019067.0,18637,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-01,2397127.0,9259,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-02,2367156.0,15240,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-03,1319535.0,21453,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-04,4968168.0,9635,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-05,2665500.0,2049,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-06,972468.0,2787,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-07,4168898.0,22562,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-08,5038349.0,6067,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-09,5576375.0,7851,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-10,1612443.0,8864,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-11,6399371.0,8975,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST112,2024-12,3561420.0,5290,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,South,MATCHED
+ST113,2023-01,2512555.0,24732,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-02,1824845.0,9330,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-03,2685589.0,13677,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-04,3420996.0,22509,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-05,5099571.0,20611,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-06,5337783.0,17474,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-07,1029308.0,17459,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-08,1811367.0,11090,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-09,2190159.0,7253,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-10,6187357.0,14764,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-11,4840785.0,13983,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2023-12,2495442.0,2490,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-01,907120.0,16505,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-02,2277856.0,18265,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-03,2734157.0,16461,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-04,2484918.0,13970,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-05,1038503.0,20992,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-06,2053595.0,12052,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-07,2490818.0,7351,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-08,1113874.0,8767,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-09,4180038.0,18006,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-10,5183133.0,21159,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-11,4496734.0,4245,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST113,2024-12,4671975.0,2021,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,South,MATCHED
+ST114,2023-01,5821856.0,15704,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-02,1351135.0,3289,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-03,5369680.0,23035,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-04,946758.0,24111,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-05,2155224.0,2514,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-06,1712049.0,3463,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-07,4371146.0,19769,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-08,6110945.0,16547,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-09,1417659.0,3179,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-10,1605082.0,6680,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-11,4099869.0,24893,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2023-12,1617838.0,18834,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-01,4863740.0,13579,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-02,2888768.0,8044,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-03,1394180.0,11442,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-04,4730901.0,3145,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-05,4208362.0,16625,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-06,2078233.0,2189,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-07,4847140.0,16807,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-08,891052.0,16598,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-09,3178067.0,8143,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-10,3922274.0,18257,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-11,5392122.0,19067,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST114,2024-12,5515764.0,13440,NorthStar Mysuru Standard,Mysuru,Karnataka,North,MATCHED
+ST115,2023-01,6046617.0,21227,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-02,1716416.0,21251,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-03,1789166.0,19831,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-04,3927199.0,14042,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-05,6040090.0,24700,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-06,2716127.0,8481,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-07,6071438.0,9315,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-08,1815275.0,12482,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-09,3708864.0,13906,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-10,1732970.0,10194,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-11,6304907.0,18266,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2023-12,2475113.0,16377,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-01,4260604.0,19523,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-02,2658403.0,19645,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-03,6137239.0,4522,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-04,6066679.0,5298,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-05,3807991.0,8160,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-06,4435929.0,16698,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-07,5514650.0,7579,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-08,4709599.0,10301,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-09,1888149.0,4476,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-10,5902825.0,15124,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-11,1986152.0,10108,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST115,2024-12,5510508.0,3466,NorthStar Hyderabad Flagship,Hyderabad,Telangana,South,MATCHED
+ST116,2023-01,6394211.0,5339,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-02,3402864.0,23152,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-03,2112817.0,24934,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-04,3065100.0,9313,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-05,6085667.0,15305,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-06,5832595.0,13448,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-07,3661352.0,12454,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-08,4745358.0,17413,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-09,4235409.0,14586,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-10,4614177.0,4523,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-11,6152438.0,12868,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2023-12,1237718.0,5192,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-01,5925885.0,23516,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-02,1050521.0,12414,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-03,4102836.0,16650,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-04,2411362.0,20255,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-05,2824710.0,22745,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-06,5884224.0,19872,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-07,872543.0,17307,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-08,2675322.0,7696,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-09,2358475.0,8230,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-10,1252507.0,24265,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-11,4170935.0,6653,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST116,2024-12,4147467.0,20246,NorthStar Mumbai Standard,Mumbai,Maharashtra,West,MATCHED
+ST117,2023-01,5266037.0,18976,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-02,5646369.0,2600,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-03,3860306.0,3253,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-04,5772719.0,2938,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-05,5802178.0,4703,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-06,6383648.0,10109,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-07,5684053.0,21903,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-08,6274404.0,9188,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-09,6235173.0,3836,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-10,5918155.0,7111,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-11,1814207.0,20959,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2023-12,1574113.0,13374,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-01,3228139.0,12237,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-02,2960634.0,22520,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-03,3165546.0,11792,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-04,5495953.0,11122,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-05,2952179.0,16831,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-06,2516509.0,18219,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-07,2569680.0,3964,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-08,5364564.0,18411,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-09,3071693.0,20860,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-10,4869506.0,20683,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-11,4446364.0,9579,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST117,2024-12,2003723.0,17054,NorthStar Pune Standard,Pune,Maharashtra,West,MATCHED
+ST118,2023-01,5198899.0,13394,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-02,6390241.0,8511,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-03,2988675.0,6439,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-04,2008351.0,10103,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-05,4932412.0,10139,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-06,5054949.0,9263,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-07,3480824.0,9308,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-08,1175979.0,22529,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-09,1199027.0,9902,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-10,3353641.0,5469,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-11,5007594.0,16826,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2023-12,2686893.0,12465,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-01,857984.0,2516,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-02,2851665.0,19517,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-03,3479933.0,11417,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-04,1196981.0,4947,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-05,6323409.0,2504,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-06,4344083.0,6943,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-07,4903140.0,5074,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-08,5975187.0,3855,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-09,6281281.0,10473,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-10,5955491.0,24834,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-11,5097076.0,19949,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED
+ST118,2024-12,3582699.0,17743,NorthStar Delhi Standard,Delhi,Delhi,north,MATCHED

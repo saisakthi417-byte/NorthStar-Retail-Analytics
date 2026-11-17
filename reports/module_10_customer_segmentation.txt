@@ -1,0 +1,37 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 10: CUSTOMER SEGMENTATION
+
+Valid transaction rows: 43456
+Customers analysed: 3000
+Frequency calculation: Unique orders
+Clustering method: K-Means (4 clusters)
+
+CUSTOMER SEGMENT SUMMARY
+                          Customers  Average_Recency  Average_Frequency  Average_Monetary  Total_Revenue
+Segment                                                                                                 
+At Risk / Low Engagement        532            51.33              10.11         110260.93   5.865882e+07
+Champions                       651             6.12              15.24         291412.84   1.897098e+08
+Needs Attention                 767            30.27              18.02         511605.02   3.924010e+08
+Potential Customers            1050            50.06              13.66         268313.25   2.817289e+08
+
+CLUSTER PROFILES
+         Customers  Avg_Recency  Avg_Frequency  Avg_Monetary                   Segment                                        Recommendation
+Cluster                                                                                                                                     
+0              651         6.12          15.24     291412.84                 Champions          Reward loyalty and offer exclusive benefits.
+1             1050        50.06          13.66     268313.25       Potential Customers  Use targeted promotions to encourage more purchases.
+2              767        30.27          18.02     511605.02           Needs Attention     Send re-engagement campaigns and relevant offers.
+3              532        51.33          10.11     110260.93  At Risk / Low Engagement    Run win-back campaigns and investigate inactivity.
+
+BUSINESS RECOMMENDATIONS
+
+Champions: Reward loyalty and offer exclusive benefits.
+
+Loyal Customers: Use loyalty points and repeat-purchase offers.
+
+Recent High Spenders: Encourage repeat purchases with personalised offers.
+
+Needs Attention: Send re-engagement campaigns and relevant offers.
+
+At Risk / Low Engagement: Run win-back campaigns and investigate inactivity.
+
+Potential Customers: Use targeted promotions to encourage more purchases.

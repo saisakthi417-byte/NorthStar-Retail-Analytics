@@ -1,0 +1,32 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 7 - STATISTICS AND HYPOTHESIS TESTING
+
+DESCRIPTIVE STATISTICS
+Valid sales rows: 60257
+Mean LineAmount: 21154.27
+Median LineAmount: 5977.41
+Standard deviation: 48716.49
+Minimum LineAmount: 77.67
+Maximum LineAmount: 834879.88
+
+HYPOTHESIS TEST 1: DISCOUNT VS SALES AMOUNT
+Discounted rows: 34393
+Non-discounted rows: 25774
+Discounted average: 19579.34
+Non-discounted average: 23207.74
+P-value: 1.1614469e-18
+Conclusion: Statistically significant difference detected between discounted and non-discounted sales amounts.
+
+HYPOTHESIS TEST 2: SALES AMOUNT BY CHANNEL
+Store average: 20977.54
+Online average: 20918.48
+App average: 21992.88
+Conclusion: No statistically significant difference detected between channel means at the 5% significance level.
+
+INTERPRETATION AND LIMITATIONS
+A p-value below 0.05 is treated as statistically significant.
+Statistical association does not establish causation.
+The tests compare recorded LineAmount values as supplied.
+Results do not establish profitability.
+The tests assume observations are sufficiently independent.
+The channel ANOVA identifies an overall difference only; it does not identify which pair of channels differs.

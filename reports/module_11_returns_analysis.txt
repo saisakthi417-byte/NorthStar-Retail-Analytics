@@ -1,0 +1,30 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 11: RETURNS ANALYSIS
+=======================================================
+
+Transaction rows analysed: 60,437
+Original return records: 3,415
+Usable return records: 3,415
+Returns source: C:\Users\admin\Desktop\NorthStar_Retail_Analytics\DATA\raw\returns.csv
+
+ANALYSIS PERFORMED
+1. Product-level returns and return rates where quantities exist.
+2. Category-level returns analysis where category data exists.
+3. Return reasons analysis where reason data exists.
+4. Channel analysis where transactions can be matched.
+5. Recorded refund summary where financial values exist.
+6. Data-quality checks and cleaned return data.
+
+BUSINESS RECOMMENDATIONS
+Review products with high return rates for quality or description issues.
+Review frequent return reasons and prioritise corrective actions.
+Compare channel results only when transaction matching is reliable.
+Use verified refund and cost data to assess financial impact.
+
+DATA LIMITATIONS
+Return rates require comparable sold and returned quantities.
+Channel analysis requires matching transaction IDs.
+Refund totals do not necessarily represent the full cost of returns.
+Missing financial values are reported as unavailable.
+
+Output folder: C:\Users\admin\Desktop\NorthStar_Retail_Analytics\outputs\module_11

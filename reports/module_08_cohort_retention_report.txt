@@ -1,0 +1,30 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 8 — COHORT & RETENTION ANALYSIS
+=======================================================
+Valid customer records with join dates: 3,000
+Valid post-join transaction rows: 33,577
+Join-month cohorts analysed: 48
+
+REPEAT PURCHASE FINDINGS
+-----------------------------------
+Customers analysed: 3,000
+Customers with post-join purchases: 2,950
+Customers with 2+ transactions: 2,874
+Repeat purchase rate among purchasers: 97.42%
+
+COHORT RETENTION FINDINGS
+-----------------------------------
+Month 0 retention ranges from 14.29% to 47.22%.
+Month 0 can be below 100% because the cohort includes registered customers who may not have purchased.
+At month 47, the highest observed retention is 61.40% for cohort 2021-01.
+The lowest observed retention at month 47 is 61.40% for cohort 2021-01.
+
+BUSINESS RECOMMENDATIONS
+-----------------------------------
+1. Compare retention between join-month cohorts before choosing customer engagement campaigns.
+2. Investigate cohorts with weaker repeat purchase rates and test relevant re-engagement offers.
+3. Evaluate cohort results alongside acquisition source, channel, discounting, and return behaviour in later modules.
+4. Interpret the newest cohorts cautiously because they have had less time to make repeat purchases.
+
+Method note: Cohorts are based on customer JoinDate, as required by the project brief. Retention means a customer has at least one recorded purchase in the relevant month. Repeat purchaser means at least two distinct transaction IDs after the recorded join date.
+ObservedSales is the sum of LineAmount for valid post-join activity; confirm the business definition of LineAmount before interpreting it as net sales or profit.

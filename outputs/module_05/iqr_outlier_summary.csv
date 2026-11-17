@@ -1,0 +1,4 @@
+Column,Valid_Values,Q1,Q3,IQR,Lower_Bound,Upper_Bound,Outlier_Count,Outlier_Percentage,Treatment
+LineAmount,60257,2474.03,13625.46,11151.429999999998,-14253.114999999996,30352.604999999996,8204,13.615015682825232,Flagged for investigation; not removed
+Quantity,60437,1.0,2.0,1.0,-0.5,3.5,1292,2.137763290699406,Flagged for investigation; not removed
+Discount,60347,0.0,0.15,0.15,-0.22499999999999998,0.375,903,1.4963461315392645,Flagged for investigation; not removed

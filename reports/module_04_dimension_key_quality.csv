@@ -1,0 +1,4 @@
+dataset,key,row_count,missing_key_rows,duplicate_key_rows,distinct_duplicate_keys,sample_duplicate_keys
+customers,CustomerID,3000,0,0,0,
+products,ProductID,520,0,0,0,
+stores,StoreID,18,0,0,0,

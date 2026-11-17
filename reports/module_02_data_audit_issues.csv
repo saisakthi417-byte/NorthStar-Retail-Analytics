@@ -1,0 +1,19 @@
+﻿Dataset,Column,Issue,Count,Examples,Severity
+transactions,Dataset,Exact duplicate rows,122,Rows identical across all columns,Review
+transactions,CustomerID,Missing values,16874,Blank or null values,Review
+transactions,Discount,Missing values,90,Blank or null values,Review
+transactions,LineAmount,Missing values,180,Blank or null values,Review
+transactions,Quantity,Negative numeric values,60,"-1, -2, -3, -4",Review
+transactions,TransactionID,Conflicting duplicate key values,18,TX200450; TX200817; TX203248; TX208375; TX208892; TX209529; TX218504; TX223003,High
+customers,Dataset,Exact duplicate rows,22,Rows identical across all columns,Review
+customers,AgeBand,Missing values,25,Blank or null values,Review
+customers,LoyaltyTier,Missing values,38,Blank or null values,Review
+products,Dataset,Exact duplicate rows,8,Rows identical across all columns,Review
+products,Brand,Missing values,7,Blank or null values,Review
+products,UnitCost,Missing values,12,Blank or null values,Review
+stores,SqFt,Missing values,2,Blank or null values,Review
+returns,Dataset,Exact duplicate rows,15,Rows identical across all columns,Review
+returns,RefundAmount,Missing values,10,Blank or null values,Review
+inventory,OnHandUnits,Missing values,120,Blank or null values,Review
+transactions,StoreID,Unmatched references to stores.StoreID,27969,Distinct unmatched IDs: 1; ONLINE,Review
+transactions,ProductID,Unmatched references to products.ProductID,45,"Distinct unmatched IDs: 45; P9000, P9001, P9002, P9003, P9004, P9005, P9006, P9007",Review

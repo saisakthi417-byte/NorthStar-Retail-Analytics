@@ -1,0 +1,9 @@
+﻿Dataset,SourceFile,Status,Rows,Columns,MissingCells,ExactDuplicateRows,MissingRequiredColumns
+transactions,transactions.csv,LOADED,60577,10,17144,122,
+customers,customers.csv,LOADED,3022,8,63,22,
+products,products.csv,LOADED,528,8,19,8,
+stores,stores.csv,LOADED,18,8,2,0,
+returns,returns.csv,LOADED,3415,6,10,15,
+inventory,inventory.csv,LOADED,25920,6,120,0,
+campaigns,campaigns.json,LOADED,40,9,0,0,
+store_targets,store_targets_legacy.csv,LOADED,432,4,0,0,

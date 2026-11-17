@@ -1,0 +1,5 @@
+Cluster,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Segment,Recommendation
+0,651,6.12,15.24,291412.84,Champions,Reward loyalty and offer exclusive benefits.
+1,1050,50.06,13.66,268313.25,Potential Customers,Use targeted promotions to encourage more purchases.
+2,767,30.27,18.02,511605.02,Needs Attention,Send re-engagement campaigns and relevant offers.
+3,532,51.33,10.11,110260.93,At Risk / Low Engagement,Run win-back campaigns and investigate inactivity.

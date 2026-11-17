@@ -1,0 +1,2 @@
+Project,Module,Date_Column,Sales_Column,Valid_Transaction_Rows,Monthly_Observations,Missing_Calendar_Months,Forecast_Months,Trend_Slope_Per_Month,MAE,RMSE,MAPE_Percent,Verified_Output_Files,Status
+NorthStar Retail Analytics Platform,Module 9 - Time Series Analysis and Forecasting,OrderDate,LineAmount,23721,24,0,3,138020.1554260865,886316.5233144938,1161046.1368344007,4.306895039967794,4,OUTPUT VERIFICATION PASSED

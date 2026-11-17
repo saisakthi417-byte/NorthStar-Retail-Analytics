@@ -1,0 +1,34 @@
+dataset,step,affected_rows_or_cells,reason
+transactions,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+transactions,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+transactions,Date validation: OrderDate,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+transactions,Exact duplicate removal after normalization,140,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.
+customers,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+customers,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+customers,Date validation: JoinDate,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+customers,Exact duplicate removal after normalization,22,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.
+products,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+products,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+products,Product category capitalization standardisation,22,"Standardize category capitalization, for example ACCESSORIES and Accessories become Accessories."
+products,Date validation: LaunchDate,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+products,Exact duplicate removal after normalization,8,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.
+stores,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+stores,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+stores,Date validation: OpenDate,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+stores,Exact duplicate removal after normalization,0,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.
+returns,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+returns,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+returns,Date validation: ReturnDate,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+returns,Exact duplicate removal after normalization,15,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.
+inventory,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+inventory,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+inventory,Date validation: SnapshotMonth,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+inventory,Exact duplicate removal after normalization,0,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.
+campaigns,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+campaigns,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+campaigns,Date validation: start_date,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+campaigns,Date validation: end_date,0,Normalize parseable dates before duplicate detection. Unparseable nonblank values become missing and must be reviewed.
+campaigns,Exact duplicate removal after normalization,0,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.
+store_targets,Blank text handling,0,Convert blank and whitespace-only text to missing values.
+store_targets,Text whitespace standardisation,0,Remove surrounding and repeated whitespace before duplicate detection.
+store_targets,Exact duplicate removal after normalization,0,Remove rows identical across all columns after normalizing text and configured dates. Records sharing only an ID are retained.

@@ -1,0 +1,6 @@
+marketing_channel,campaign_count,marketing_spend_inr,total_clicks,total_impressions,ctr_percent,estimated_revenue_inr,roi_proxy_percent,acquisition_count,cpa_inr,roi_interpretation,cpa_interpretation
+Display,9,9247195.74,347227,13767320,2.522110330841442,204655249.26,2113.160129992014,,,Exploratory estimate; not confirmed campaign attribution,Unavailable: acquisition counts not supplied
+Email,10,8411611.44,407695,22927489,1.7781929804873093,371822544.48,4320.348551906008,,,Exploratory estimate; not confirmed campaign attribution,Unavailable: acquisition counts not supplied
+SMS,10,10248090.35,363599,17379735,2.0920859840498145,267516672.38,2510.4050924960866,,,Exploratory estimate; not confirmed campaign attribution,Unavailable: acquisition counts not supplied
+Search,5,3257354.72,214004,8006137,2.6729994752775275,84081657.27,2481.286488503775,,,Exploratory estimate; not confirmed campaign attribution,Unavailable: acquisition counts not supplied
+Social,6,6465280.62,375765,9340797,4.022836595207026,124247176.2,1821.7599900559303,,,Exploratory estimate; not confirmed campaign attribution,Unavailable: acquisition counts not supplied

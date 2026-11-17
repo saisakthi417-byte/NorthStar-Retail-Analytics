@@ -1,0 +1,4 @@
+Metric,Value,Calculation_Method
+Total return records,3415.0,Count of usable return records
+Total returned units,,Unavailable: no usable return quantity values were found.
+Total recorded refunds,67327419.02,Sum of recorded refund amounts.

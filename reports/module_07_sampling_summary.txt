@@ -1,0 +1,12 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 7 - RANDOM SAMPLING
+
+Full dataset rows: 60257
+Sample rows: 1000
+Full dataset mean: 21154.27
+Sample mean: 21822.89
+Difference: 668.63
+
+A reproducible random sample was selected using random_state=42.
+The sample mean is compared with the full dataset mean.
+A sample may differ from the population; one sample does not prove representativeness.

@@ -1,0 +1,8 @@
+check,left_key,right_key,left_rows,right_rows,left_unique_keys,right_unique_keys,missing_left_key_rows,unmatched_unique_keys,sample_unmatched_keys
+Transactions to customers,CustomerID,CustomerID,60437,3000,3000,3000,16844,0,
+Transactions to products,ProductID,ProductID,60437,520,565,520,0,45,"P9000, P9001, P9002, P9003, P9004, P9005, P9006, P9007, P9008, P9009"
+Physical transactions to stores,StoreID,StoreID,32530,18,18,18,0,0,
+Returns to transactions,TransactionID,TransactionID,3400,60437,3399,60437,0,0,
+Inventory to stores,StoreID,StoreID,25920,18,18,18,0,0,
+Inventory to products,ProductID,ProductID,25920,520,520,520,0,0,
+Legacy targets to stores,StoreID,StoreID,432,18,18,18,0,0,

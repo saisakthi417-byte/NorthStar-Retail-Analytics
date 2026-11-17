@@ -1,0 +1,27 @@
+NORTHSTAR RETAIL ANALYTICS PLATFORM
+MODULE 8 - CUSTOMER SEGMENTATION
+
+Integrated transaction rows: 60437
+Transactions used for RFM: 43456
+Customers segmented: 3000
+Unique customers in customer master: 3000
+Reference date: 2025-01-01
+
+RFM DEFINITIONS
+Recency: Days since the customer's last recorded purchase.
+Frequency: Number of valid transaction rows for the customer.
+Monetary: Sum of recorded LineAmount for the customer.
+
+SEGMENT SUMMARY
+         Segment  Customer_Count  Average_Recency_Days  Average_Frequency  Total_Monetary  Average_Monetary  Customer_Percentage
+         At Risk             924             68.055195          12.258658    217652291.29     235554.427803                30.80
+       Champions             331              9.658610          18.752266    174374256.29     526810.441964                11.03
+ Loyal Customers             580             37.555172          18.096552    238721793.32     411589.298828                19.33
+ Needs Attention             417             27.839329          13.203837    104355867.70     250253.879376                13.90
+Recent Customers             748             10.171123          13.262032    187394321.39     250527.167634                24.93
+
+LIMITATIONS
+Customer records without CustomerID are excluded.
+Frequency counts transaction rows, not necessarily distinct orders.
+Monetary uses LineAmount as supplied; it is not confirmed profit.
+Segment labels are rule-based descriptions, not proof of customer intent.
